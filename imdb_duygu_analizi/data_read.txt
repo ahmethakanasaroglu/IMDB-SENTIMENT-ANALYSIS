@@ -1,0 +1,1 @@
+Datayı kodda imdb den çektik. bir dataset yok hazır.
